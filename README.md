@@ -21,7 +21,7 @@
 
 Currently, **I'm open to work and employment opportunities**.
 
-Enthusiastic and highly-skilled front-end software developer with a passion for creating visually appealing and user-friendly applications. I have successfully contributed to various projects, from gaming experiences to internal tools, where I've been able to increase engagement, reduce development time, and boost productivity. My expertise includes proficiency in a range of technologies (see list below).
+Enthusiastic and highly-skilled front-end software developer with a passion for creating visually appealing and user-friendly applications. I have successfully contributed to various projects, from gaming experiences to internal tools, where I've been able to increase engagement, reduce development time, and boost productivity. My expertise includes proficiency in a range of technologies.
 
 As a dedicated professional, I am eager to bring my technical skills and creative problem-solving abilities to a front-end developer role, where I can make a significant impact and continue to grow in my career.
 
@@ -32,4 +32,6 @@ As a dedicated professional, I am eager to bring my technical skills and creativ
 
 ### Where to find me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/argtonzekaj.com/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/argtonzekaj.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_argtonzekaj/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/argton.zekaj.1/)
